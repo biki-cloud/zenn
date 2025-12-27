@@ -4,6 +4,9 @@ emoji: "💭"
 type: "tech"
 topics: ["python", "algorithm", "datastructure"]
 published: false
+aliases:
+  - "python-data-structure-cheatsheet"
+  - "Pythonデータ構造"
 ---
 
 ## 🧠 はじめに

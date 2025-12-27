@@ -4,6 +4,9 @@ emoji: "⚔️"
 type: "idea"
 topics: ["python", "algorithm", "interview", "datastructure"]
 published: true
+aliases:
+  - "algorithm-learning-rpg"
+  - "アルゴリズムRPG"
 ---
 
 ## 🧠 はじめに

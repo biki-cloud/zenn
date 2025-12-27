@@ -4,6 +4,9 @@ emoji: "🧩"
 type: "tech"
 topics: ["nextjs", "react", "ssg", "ssr", "isr"]
 published: false
+aliases:
+  - "nextjs-rendering-methods"
+  - "SSG-ISR-SSR-CSR"
 ---
 
 Next.js を使っていると必ず出てくる
