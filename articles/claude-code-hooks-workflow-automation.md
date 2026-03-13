@@ -2,7 +2,7 @@
 title: "Claude Code Hooksで開発を自動化する：PreToolUse/PostToolUse 実践入門"
 emoji: "🪝"
 type: "tech"
-topics: ["claudecode", "ai", "automation", "productivity", "devtools"]
+topics: ["claudecode", "ai", "automation", "productivity", "shellscript"]
 published: true
 ---
 
